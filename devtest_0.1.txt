@@ -1,0 +1,17 @@
+[b]Test Post[/b]
+Test text blub
+
+[i]italic[/i]
+[u]underline[/u]
+[s]strikeout[/s]
+[code]code text[/code]
+[center]center[/center]
+[fill]fill[/fill]
+
+[url="https://github.com/NimbleBeasts/GameLogs"]Url[/url]
+
+[img]https://github.com/NimbleBeasts/GameLogs/blob/master/Beast.png[/img]
+
+[table=3][cell]Table[/cell][cell]Row2[/cell][cell]Row3[/cell][cell]{text}[/cell][cell]{text}[/cell][cell]{text}[/cell][/table]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
