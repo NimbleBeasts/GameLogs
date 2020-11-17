@@ -1,0 +1,3 @@
+[b]Demo 0.2 Changelog[/b] [code]2020-11-17[/code]
+- Added: ChangeLog
+- Fixed: Player stuck after dialogue is completed
