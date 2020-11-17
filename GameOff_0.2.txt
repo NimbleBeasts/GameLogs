@@ -1,3 +1,7 @@
 [b]Demo 0.2 Changelog[/b] [code]2020-11-17[/code]
 - Added: ChangeLog
+- Added: Player Upgrades and Money (Use F4 to cheat)
+- Added: Save and Load (not storing actual progress, only money and skills)
+- Added: Mini-Lockpicking Protoype
 - Fixed: Player stuck after dialogue is completed
+
