@@ -1,6 +1,6 @@
 [color=#ffad3b][b]Welcome to Moonshot: The Great Espionage[/b][/color]
 ​This game is our contribution to GitHubs "GameOff Jam 2020" and "The Web Monetization Challenge 2020​". 
-With the latter we want to try out new ways to monetize games to be able to continue making pretty good games in the future. You can find more information about it on [url="https://www.coil.com/"]Coil.com[/url]. Those who use the Coil Plugin have an additional passive source of income and are not dependent on searching all cabinets for bounties.
+With the latter we want to try out new ways to monetize games to be able to continue making pretty good games in the future. You can find more information about it on [url=https://www.coil.com/]Coil.com[/url]. Those who use the Coil Plugin have an additional passive source of income and are not dependent on searching all cabinets for bounties.
 
 [color=#ffad3b][b]Controls[/b][/color]
 This game comes with experimental controller support. For best experience use keyboard and mouse.
