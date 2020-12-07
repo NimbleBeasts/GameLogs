@@ -1,0 +1,7 @@
+[b]Welcome to Bounce Restart[/b]
+Thank you for playing this game! We'd like to see you supporting it.
+
+[b]Changelog[/b]
+[b]Release 0.7 [/b][code]2020-12-07[/code]
+- Different Level Themes
+- Map Editor
