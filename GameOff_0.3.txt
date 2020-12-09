@@ -2,6 +2,9 @@
 ​This game is our contribution to GitHubs "GameOff Jam 2020" and "The Web Monetization Challenge 2020​". 
 With the latter we want to try out new ways to monetize games to be able to continue making pretty good games in the future. You can find more information about it on [url=https://tinyurl.com/yxmcr7vl]Coil.com[/url]. Those who use the Coil Plugin have an additional passive source of income and are not dependent on searching all cabinets for bounties.
 
+[color=#ffad3b][b]We are going Full STEAM![/b][/color]
+Thanks for all your feedback! We continue working on this title to make it a really awesome game. You can now wishlist it on [url=https://store.steampowered.com/app/1492610/Moonshot__The_Great_Espionage/]Steam[/url]. Read more in the [url=https://nimblebeastscollective.itch.io/moonshot/devlog/202999/moonshot-going-full-steam]DevLog[/url].
+
 [color=#ffad3b][b]Controls[/b][/color]
 This game comes with experimental controller support. For best experience use keyboard and mouse.
 [table=3]
