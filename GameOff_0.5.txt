@@ -1,5 +1,5 @@
 [color=#ffad3b][b]Welcome to Moonshot: The Great Espionage[/b][/color]
-Welcom to our first Beta! Currently we have 10 levels ready to play.
+Welcome to our first Beta! Currently we have 10 levels ready to play.
 
 [color=#ffad3b][b]Controls[/b][/color]
 This game comes with experimental controller support. For best experience use keyboard and mouse.
