@@ -1,12 +1,12 @@
 [color=#ffad3b][b]Welcome to Moonshot: The Great Espionage[/b][/color]
-This is our first release after the Game Jams in December. With this beta we are almost feature complete and can now focus on bugfixing, polishing and the remaining levels. So that we can get feedback from you again, we have created this beta version. 
+This is our first release after the Game Jams in December. With this beta we are almost feature complete and can now focus on bugfixing, polishing and the remaining levels. So that we can get feedback from you again, we have created this beta version. We got 10 out of 30 levels done so far.
 
-So take your time, play through the game and answer our questionnaire. 
-As a thank you we will raffle 3 Amazon vouchers worth 50, 25 and 15 euro among all participants who provide their email address (we will delete this after the raffle).
+So take your time, play through the game and answer our questionnaire. There will be a Amazon voucher giveaway for all participants:
+Click here for [url=https://forms.gle/Vi41Es38Keuy98Vz6]Beta Feedback[/url].
 
 If you stuck in one level hit F9 and type level_next.
 
-Click here for [url=https://forms.gle/Vi41Es38Keuy98Vz6]Beta Feedback[/url].
+
 
 [color=#ffad3b][b]Controls[/b][/color]
 This game comes with experimental controller support. For best experience use keyboard and mouse.
