@@ -2,7 +2,7 @@
 This is our first release after the Game Jams in December. With this beta we are almost feature complete and can now focus on bugfixing, polishing and the remaining levels. So that we can get feedback from you again, we have created this beta version. 
 
 So take your time, play through the game and answer our questionnaire. 
-As a thank you we will raffle 3 Amazon vouchers worth 50€, 25€ and 15€ among all participants who provide their email address (we will delete this after the raffle).
+As a thank you we will raffle 3 Amazon vouchers worth 50, 25 and 15 euro among all participants who provide their email address (we will delete this after the raffle).
 
 If you stuck in one level hit F9 and type level_next.
 
